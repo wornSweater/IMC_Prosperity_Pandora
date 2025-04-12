@@ -1,0 +1,5 @@
+jsonpickle==4.0.5
+pandas == 2.2.3
+numpy == 2.2.4
+tqdm == 4.67.1
+matplotlib == 3.10.1
