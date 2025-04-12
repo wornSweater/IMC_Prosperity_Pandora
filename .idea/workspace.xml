@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c1f6252-6269-4a47-b99a-4981180d7e66" name="Changes" comment="pushed round_1 and round_2 partial codes; updated all log files;">
+    <list default="true" id="3c1f6252-6269-4a47-b99a-4981180d7e66" name="Changes" comment="updated the requirements.txt;">
+      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/IMC_currency_exchange_round_1_manual-checkpoint.ipynb" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/IMC_Prosperity_3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/IMC_Prosperity_3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +25,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "wornSweater"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/wornSweater/IMC_Prosperity_Pandora.git",
@@ -70,11 +79,20 @@
       <option name="project" value="LOCAL" />
       <updated>1744467002092</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="updated the requirements.txt;">
+      <option name="closed" value="true" />
+      <created>1744467381223</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1744467381224</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="pushed round_1 and round_2 partial codes; updated all log files;" />
-    <option name="LAST_COMMIT_MESSAGE" value="pushed round_1 and round_2 partial codes; updated all log files;" />
+    <MESSAGE value="updated the requirements.txt;" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated the requirements.txt;" />
   </component>
 </project>
