@@ -4,11 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c1f6252-6269-4a47-b99a-4981180d7e66" name="Changes" comment="updated the requirements.txt;">
-      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/IMC_currency_exchange_round_1_manual-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/IMC_Prosperity_3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/IMC_Prosperity_3.iml" afterDir="false" />
+    <list default="true" id="3c1f6252-6269-4a47-b99a-4981180d7e66" name="Changes" comment="finished round_2_manual and updated;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/IMC_currency_exchange_round_1_manual-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMC_currency_exchange_round_1_manual.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMC_round_1_algo.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/IMC_round_1_algo.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round_1_algo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Round_1_algo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prices_round_1_day_-1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prices_round_1_day_-2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prices_round_1_day_0.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trades_round_1_day_-1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trades_round_1_day_-2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trades_round_1_day_0.csv" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +59,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/55479/PycharmProjects/Trading_Math_Coding",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -87,12 +94,30 @@
       <option name="project" value="LOCAL" />
       <updated>1744467381224</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="updated something in jupyter;">
+      <option name="closed" value="true" />
+      <created>1744467437206</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1744467437206</updated>
+    </task>
+    <task id="LOCAL-00004" summary="finished round_2_manual and updated;">
+      <option name="closed" value="true" />
+      <created>1744477538389</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1744477538389</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="pushed round_1 and round_2 partial codes; updated all log files;" />
     <MESSAGE value="updated the requirements.txt;" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated the requirements.txt;" />
+    <MESSAGE value="updated something in jupyter;" />
+    <MESSAGE value="finished round_2_manual and updated;" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished round_2_manual and updated;" />
   </component>
 </project>
